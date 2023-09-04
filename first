@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+
+
+// Outputting text to the webpage
+// document.write("hi");
+
+// Getting user input and displaying a prompt
+// window.prompt("Hi, what's your name?");
+
+// Logging output to the browser console
+// console.log("hi");
+
+// Variable declaration using var and let
+// var and let are used to declare variables in JavaScript.
+
+// Declaring a variable 'x' and assigning it the value "nouhaila"
+// let x = "nouhaila";
+
+// Declaring a variable 'y' and assigning it the value " nn"
+// let y = " nn";
+
+// Combining variables 'x' and 'y' and storing the result in variable 'z'
+// var z = x + y;
+
+// Outputting the combined text to the webpage
+// document.write(z);
+
+
+
+    
+
+</script>
+</body>
+</html>

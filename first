@@ -24,14 +24,15 @@
 // Declaring a variable 'x' and assigning it the value "hi"
  let x = "hi";
 
-// Declaring a variable 'y' and assigning it the value " nn"
-let y = " nn";
+// Declaring a variable 'y' and assigning it the value " you"
+let y = " you";
 
 // Combining variables 'x' and 'y' and storing the result in variable 'z'
  var z = x + y;
 
 // Outputting the combined text to the webpage
  document.write(z);
+
 </script>
 </body>
 </html>

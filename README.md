@@ -1,3 +1,3 @@
 # javascript.
 
-i will start studying js step by step
+i will start studying js step by step 

@@ -21,8 +21,8 @@
 // Variable declaration using var and let
 // var and let are used to declare variables in JavaScript.
 
-// Declaring a variable 'x' and assigning it the value "nouhaila"
-// let x = "nouhaila";
+// Declaring a variable 'x' and assigning it the value "hi"
+// let x = "hi";
 
 // Declaring a variable 'y' and assigning it the value " nn"
 // let y = " nn";

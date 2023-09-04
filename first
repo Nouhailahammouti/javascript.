@@ -33,6 +33,5 @@ let y = " nn";
 // Outputting the combined text to the webpage
  document.write(z);
 </script>
-<p>first exemple ("creat a calculation")</p>
 </body>
 </html>

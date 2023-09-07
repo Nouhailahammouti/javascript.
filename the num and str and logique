@@ -1,0 +1,41 @@
+  //Using parseInt() to convert to an integer:
+var str = "123"; // A string containing a number
+var num = parseInt(str); // Convert the string to an integer
+console.log(num); // Output: 123
+
+//Using parseFloat() to convert to a floating-point number:
+     var str = "123.45"; // A string containing a floating-point number
+     var num = parseFloat(str); // Convert the string to a floating-point number
+     console.log(num); // Output: 123.45
+
+
+In JavaScript, "logique" is the French word for "logic." In programming and specifically in JavaScript,
+"logique" or "logic" refers to the way in which you structure and control the flow of your code to achieve desired outcomes.
+It involves making decisions, repeating actions,
+and handling various conditions within your program. JavaScript provides a variety of tools and constructs for implementing logic in your code
+
+
+1-Conditional Statements:
+if (condition) {
+  // Code to execute if the condition is true
+} else {
+  // Code to execute if the condition is false
+}
+
+ 2-Loops:
+    for (var i = 0; i < 5; i++) {
+  // Code to repeat five times
+}
+
+3-Logical Operators: 
+    if (condition1 && condition2) {
+  // Code to execute if both conditions are true
+} else if (condition1 || condition2) {
+  // Code to execute if at least one condition is true
+}
+
+
+ 
+
+
+

@@ -9,3 +9,20 @@
     <img src="https://www.w3schools.com/js/pic_htmltree.gif">
 </body>
 </html>
+
+
+dom methode:
+ <html>
+<body>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello World!";
+</script>
+
+</body>
+</html>
+RUN==
+              My First Page
+                     Hello World!
